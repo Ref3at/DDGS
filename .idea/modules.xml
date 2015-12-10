@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DigitalDesignGame.iml" filepath="$PROJECT_DIR$/DigitalDesignGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDGS.iml" filepath="$PROJECT_DIR$/DDGS.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

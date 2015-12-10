@@ -9,6 +9,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     Button btn1, btn2, btn3;
+    String vv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
